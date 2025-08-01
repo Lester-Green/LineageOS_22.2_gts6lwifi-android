@@ -1,4 +1,4 @@
-LineageOS 22.2 for FireHD 10 2017 (suez)
+LineageOS 22.2 for Samsung Galaxy S6 (gts6lwifi)
 ===========
 
 Getting started
@@ -8,7 +8,7 @@ To get started with Android/LineageOS, you'll need to get familiar with [Source 
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 ```
-repo init -u https://github.com/Lester-Green/LineageOS_22.2_suez-android -b lineage-22.2 --git-lfs
+repo init -u https://github.com/Lester-Green/LineageOS_22.2_gts6lwifi-android -b lineage-22.2 --git-lfs
 ```
 Then to sync up:
 ```
